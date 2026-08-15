@@ -1,0 +1,122 @@
+[
+  {
+    "product_name": "蓝牙耳机 Pro",
+    "sku": "BT-PRO-001",
+    "aliases": ["蓝牙耳机", "耳机 Pro", "Bluetooth Headset Pro"],
+    "search_keywords": ["耳机", "蓝牙", "音频", "均码", "材质", "兼容", "保修", "退货", "退款"],
+    "specifications": {
+      "material": "ABS 外壳，铝合金充电盒",
+      "color": "曜石黑、云雾白",
+      "connection": "Bluetooth 5.3",
+      "battery": "耳机单次约 8 小时，配合充电盒最长约 32 小时",
+      "water_resistance": "IPX4，仅防生活泼溅"
+    },
+    "size_guide": {
+      "type": "均码",
+      "suggestion": "配送 3 种尺寸耳塞套，按耳道贴合度选择；佩戴时不应有明显压迫感。"
+    },
+    "warranty": "12 个月有限保修",
+    "after_sales_policy": {
+      "return_window_days": 7,
+      "exchange_window_days": 15,
+      "condition": "非质量问题退换需保持商品、配件和包装完整；质量问题请提供故障描述或照片。"
+    },
+    "faq": [
+      {
+        "question": "支持哪些设备？",
+        "keywords": ["兼容", "手机", "电脑", "设备"],
+        "answer": "支持具备 Bluetooth 连接功能的手机、平板和电脑。"
+      },
+      {
+        "question": "耳机可以防水吗？",
+        "keywords": ["防水", "运动", "雨水"],
+        "answer": "支持 IPX4 生活泼溅防护，不建议游泳、淋浴或浸水使用。"
+      }
+    ]
+  },
+  {
+    "product_name": "复古慢跑鞋",
+    "sku": "RS-RETRO-002",
+    "aliases": ["慢跑鞋", "复古跑鞋", "Retro Runner"],
+    "search_keywords": ["鞋", "跑鞋", "尺码", "鞋码", "脚长", "材质", "保修", "退货", "清洁"],
+    "specifications": {
+      "material": "网布鞋面，合成麂皮拼接，EVA 中底，橡胶外底",
+      "color": "奶油白、森林绿、复古蓝",
+      "weight": "约 290 克（单只 42 码）",
+      "use": "日常通勤和轻量慢跑，不建议用于专业竞速"
+    },
+    "size_guide": {
+      "unit": "EU",
+      "foot_length_cm": {
+        "36": "22.5",
+        "37": "23.0",
+        "38": "24.0",
+        "39": "24.5",
+        "40": "25.0",
+        "41": "25.5",
+        "42": "26.0",
+        "43": "26.5",
+        "44": "27.5"
+      },
+      "suggestion": "脚背偏高或喜欢宽松脚感，建议按脚长选码后加大一码；正常脚型按脚长选择即可。"
+    },
+    "warranty": "6 个月有限保修",
+    "after_sales_policy": {
+      "return_window_days": 7,
+      "exchange_window_days": 15,
+      "condition": "试穿请在室内进行，退换时鞋底不应有明显磨损，鞋盒和配件需完整。"
+    },
+    "faq": [
+      {
+        "question": "如何选择鞋码？",
+        "keywords": ["尺码", "鞋码", "脚长", "选码"],
+        "answer": "请测量脚长并对照 EU 尺码表；脚背偏高或希望宽松时建议加大一码。"
+      },
+      {
+        "question": "这双鞋适合雨天穿吗？",
+        "keywords": ["防水", "雨天", "清洁"],
+        "answer": "鞋面不是防水材料，建议避开长时间积水；轻微污渍可用软刷和湿布清洁并阴干。"
+      }
+    ]
+  },
+  {
+    "product_name": "轻薄羽绒服",
+    "sku": "DW-LIGHT-003",
+    "aliases": ["羽绒服", "轻薄外套", "Light Down Jacket"],
+    "search_keywords": ["羽绒", "外套", "衣服", "尺码", "胸围", "材质", "保暖", "清洗", "保修", "退货"],
+    "specifications": {
+      "material": "20D 尼龙面料，90% 白鸭绒填充，绒子含量 85%",
+      "color": "雾霾蓝、石墨黑、暖杏色",
+      "fill_power": "约 650",
+      "temperature_range": "建议用于约 5°C 至 15°C 的通勤场景"
+    },
+    "size_guide": {
+      "unit": "cm",
+      "body_chest_range": {
+        "S": "82-88",
+        "M": "88-94",
+        "L": "94-100",
+        "XL": "100-108"
+      },
+      "suggestion": "建议先测量身体胸围；若需要叠穿卫衣或抓绒，建议在对应尺码基础上选择大一码。"
+    },
+    "warranty": "12 个月有限保修",
+    "after_sales_policy": {
+      "return_window_days": 7,
+      "exchange_window_days": 15,
+      "condition": "非质量问题退换需保持吊牌、包装和商品完整；羽绒服清洗后不支持无质量问题退换。"
+    },
+    "faq": [
+      {
+        "question": "羽绒服应该如何清洗？",
+        "keywords": ["清洗", "洗涤", "保养"],
+        "answer": "建议参考衣物水洗标进行轻柔处理，避免长时间浸泡、漂白和高温烘干，洗后充分晾干并轻拍蓬松。"
+      },
+      {
+        "question": "如何选择羽绒服尺码？",
+        "keywords": ["尺码", "胸围", "选码", "叠穿"],
+        "answer": "按身体胸围对照尺码表；需要叠穿厚衣物时建议选择大一码。"
+      }
+    ]
+  }
+]
